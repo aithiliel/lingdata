@@ -1,4 +1,3 @@
-Id	Word	Lemma	Pos	(Extra)	Features	HeadPosition	Relation(EverythingElse)
 1	в	в	ADP	_	_	_	_	_	words@bvk1982m#@bvk-1982m#2.14#2.378
 2	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@bvk1982m#@bvk-1982m#2.378#2.712
 3	судьбе	судьба	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	words@bvk1982m#@bvk-1982m#2.712#3.046
@@ -191,7 +190,7 @@ Id	Word	Lemma	Pos	(Extra)	Features	HeadPosition	Relation(EverythingElse)
 190	не	не	PART	_	_	_	_	_	words@aaw1952m#@aaw1952m#16.899#17.16
 191	болезнь	болезнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#17.16#17.45
 192	а	а	CCONJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#17.45#17.589
-193	ее	ее	DET	__	_	_	words@aaw1952m#@aaw1952m#17.589#17.746
+193	ее	ее	DET	_	_	_	_	_	words@aaw1952m#@aaw1952m#17.589#17.746
 194	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#17.746#18.448
 195	//	//	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#18.448#20.814
 196	у	у	ADP	_	_	_	_	_	words@aaw1952m#@aaw1952m#20.814#20.931
