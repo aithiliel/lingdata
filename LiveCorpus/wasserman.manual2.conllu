@@ -615,7 +615,7 @@
 615	еще	еще	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#318.831#319.051
 616	и	и	PART	_	_	_	_	_	words@aaw1952m#@aaw1952m#319.051#319.181
 617	преподает	преподавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#319.181#319.888
-618	видимся	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@aaw1952m#@aaw1952m#323.665#324.472
+618	видимся	видеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@aaw1952m#@aaw1952m#323.665#324.472
 619	//	//	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#324.472#325.279
 620	и	и	CCONJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#325.279#325.909
 621	по	по	ADP	_	_	_	_	_	words@aaw1952m#@aaw1952m#325.909#326.214
@@ -623,7 +623,7 @@
 623	почти	почти	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#326.675#327.116
 624	ежедневно	ежедневно	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#327.116#328.506
 625	и	и	CCONJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#328.506#328.746
-626	живьем	живьем	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#328.746#329.577
+626	живьем	живьем	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#328.746#329.577
 627	/	/	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#329.577#330.409
 628	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#330.409#330.694
 629	в	в	ADP	_	_	_	_	_	words@aaw1952m#@aaw1952m#330.694#330.805
@@ -686,7 +686,7 @@
 686	//	//	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#382.604#383.357
 687	ааа	ааа	INTJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#383.357#383.975
 688	/	/	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#383.975#385.331
-689	вообщем-то	вообщем-то	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#385.331#386.431
+689	в общем-то	в общем-то	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#385.331#386.431
 690	/	/	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#386.431#387.532
 691	ааа	ааа	INTJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#387.532#388.116
 692	особо	особо	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#388.116#390.0
